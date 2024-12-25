@@ -9,7 +9,7 @@ from telegram.ext import Application, MessageHandler, filters, CallbackContext
 from urllib.request import urlretrieve
 
 # Токен Telegram бота
-TELEGRAM_TOKEN = '7907661197:AAFE0VS41kumMiq55OnadsxdgspyDzHLX_c'
+TELEGRAM_TOKEN = ''
 # Путь до временного изображения
 PHOTO_PATH = 'temporary_image.png'
 # Электронная почта Outlook и пароль
